@@ -1,0 +1,22 @@
+type: sorting
+options:
+  - Second constructor block
+  - "All init blocks, sequentially in the order they appear"
+  - Primary constructor
+files:
+  - name: src/Main.kt
+    visible: true
+    text: |
+      // You can experiment here, it won’t be checked
+      
+      fun main(args: Array<String>) {
+        // put your code here
+      }
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/15615#comment
+status: Solved
+record: -1
+ordering:
+  - 0
+  - 1
+  - 2

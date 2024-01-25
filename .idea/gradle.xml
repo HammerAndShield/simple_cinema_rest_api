@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Cinema Room REST Service (Kotlin)/task" />
+            <option value="$PROJECT_DIR$/Cinema Room REST Service (Kotlin)/task/build/classes/java" />
+            <option value="$PROJECT_DIR$/Cinema Room REST Service (Kotlin)/task/build/generated/sources/annotationProcessor/java" />
+            <option value="$PROJECT_DIR$/Cinema Room REST Service (Kotlin)/task/build/generated/sources/headers/java" />
+            <option value="$PROJECT_DIR$/Cinema Room REST Service (Kotlin)/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/Cinema Room REST Service (Kotlin)/task/build/test-results" />
+            <option value="$PROJECT_DIR$/Cinema Room REST Service (Kotlin)/task/build/tmp" />
+            <option value="$PROJECT_DIR$/Topics/Collections as interface/Add books to collection" />
+            <option value="$PROJECT_DIR$/Topics/Collections as interface/Cut the collection" />
+            <option value="$PROJECT_DIR$/Topics/Collections as interface/Faulkner books collection" />
+            <option value="$PROJECT_DIR$/Topics/Collections as interface/Game of collections" />
+            <option value="$PROJECT_DIR$/Topics/Collections as interface/Reverse elements" />
+            <option value="$PROJECT_DIR$/Topics/Collections as interface/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Companion object/Analogue of companion object" />
+            <option value="$PROJECT_DIR$/Topics/Companion object/Companion" />
+            <option value="$PROJECT_DIR$/Topics/Companion object/Singleton vs Companion Object" />
+            <option value="$PROJECT_DIR$/Topics/Companion object/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Inheritance and constructors/Base and derived class execution order" />
+            <option value="$PROJECT_DIR$/Topics/Inheritance and constructors/Class execution order" />
+            <option value="$PROJECT_DIR$/Topics/Inheritance and constructors/Complete the code" />
+            <option value="$PROJECT_DIR$/Topics/Inheritance and constructors/Derived class creation" />
+            <option value="$PROJECT_DIR$/Topics/Inheritance and constructors/Find a bug" />
+            <option value="$PROJECT_DIR$/Topics/Inheritance and constructors/Match keywords with definitions" />
+            <option value="$PROJECT_DIR$/Topics/Inheritance and constructors/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Introduction to Interfaces/A few keywords" />
+            <option value="$PROJECT_DIR$/Topics/Introduction to Interfaces/Fixing an interface implementation" />
+            <option value="$PROJECT_DIR$/Topics/Introduction to Interfaces/Getting familar with implementing Interfaces" />
+            <option value="$PROJECT_DIR$/Topics/Introduction to Interfaces/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Object declarations/Board game basics  Game" />
+            <option value="$PROJECT_DIR$/Topics/Object declarations/Manager" />
+            <option value="$PROJECT_DIR$/Topics/Object declarations/Me" />
+            <option value="$PROJECT_DIR$/Topics/Object declarations/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Secondary constructor/Fabric manufacture" />
+            <option value="$PROJECT_DIR$/Topics/Secondary constructor/Frozen desserts" />
+            <option value="$PROJECT_DIR$/Topics/Secondary constructor/How are the classes created" />
+            <option value="$PROJECT_DIR$/Topics/Secondary constructor/Spot the error" />
+            <option value="$PROJECT_DIR$/Topics/Secondary constructor/Theory" />
+            <option value="$PROJECT_DIR$/Topics/The try-catch-finally statement/Choose the correct option" />
+            <option value="$PROJECT_DIR$/Topics/The try-catch-finally statement/Complex handling" />
+            <option value="$PROJECT_DIR$/Topics/The try-catch-finally statement/Theory" />
+            <option value="$PROJECT_DIR$/Topics/The try-catch-finally statement/Using as expressions" />
+            <option value="$PROJECT_DIR$/Topics/Try-catch statement/Exception message" />
+            <option value="$PROJECT_DIR$/Topics/Try-catch statement/Theory" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

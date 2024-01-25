@@ -1,0 +1,22 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: That this abstract member of the interface is now constant.
+  - text: That this abstract member of the interface is being implemented in this class.
+  - text: That this member can only be accessed by class methods.
+  - text: That this member is declared as abstract.
+files:
+  - name: src/Main.kt
+    visible: true
+    text: |
+      // You can experiment here, it won’t be checked
+      
+      fun main(args: Array<String>) {
+        // put your code here
+      }
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/18225#comment
+status: Solved
+record: -1
+custom_name: A few keywords...
+local_check: false

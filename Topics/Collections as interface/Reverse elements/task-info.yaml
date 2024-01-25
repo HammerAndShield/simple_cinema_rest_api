@@ -1,0 +1,22 @@
+type: code
+files:
+  - name: src/Main.kt
+    visible: true
+    text: |-
+      fun main() {
+          val originalList = readln().split(" ").map { it }.toMutableList()
+          val originalSet = originalList.toMutableSet()
+      
+          println(addElements(originalList))
+          println(addElements(originalSet))
+      }
+      
+      // Write function addElements() here
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/19760#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Tue, 16 Jan 2024 16:08:27 UTC"
+record: -1
+submission_language: kotlin

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Topics-Collections_as_interface-Add_books_to_collection" external.linked.project.path="$MODULE_DIR$/../../../../../Topics/Collections as interface/Add books to collection" external.root.project.path="$MODULE_DIR$/../../../../.." external.system.id="GRADLE" external.system.module.group="Cinema Room REST Service (Kotlin)1" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../Topics/Collections as interface/Add books to collection">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Collections as interface/Add books to collection/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Collections as interface/Add books to collection/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Collections as interface/Add books to collection/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

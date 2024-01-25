@@ -1,0 +1,27 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: "<code>readBooks = setOf(\"The Sound and the Fury\", \"The Wild Palms\"),\
+    \ unreadBooks = mutableListOf(\"Light in August\", \"As I Lay Dying\")</code>"
+  - text: "<code>readBooks = mutableSetOf(\"The Sound and the Fury\", \"The Wild Palms\"\
+    ), unreadBooks = listOf(\"Light in August\", \"As I Lay Dying\")</code>"
+  - text: "<code>readBooks = mutableListOf(\"The Sound and the Fury\", \"The Wild Palms\"\
+    ), unreadBooks = setOf(\"Light in August\", \"As I Lay Dying\")</code>"
+  - text: "<code>readBooks = mutableSetOf(\"The Sound and the Fury\", \"The Wild Palms\"\
+    ), unreadBooks = setOf(\"Light in August\", \"As I Lay Dying\")</code>"
+  - text: "<code>readBooks = listOf(\"The Sound and the Fury\", \"The Wild Palms\"),\
+    \ unreadBooks = listOf(\"Light in August\", \"As I Lay Dying\")</code>"
+files:
+  - name: src/Main.kt
+    visible: true
+    text: |
+      // You can experiment here, it won’t be checked
+      
+      fun main(args: Array<String>) {
+        // put your code here
+      }
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/19752#comment
+status: Solved
+record: -1
+local_check: false

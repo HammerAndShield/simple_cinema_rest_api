@@ -1,0 +1,15 @@
+<h2>Find a bug</h2>
+<div class="step-text">
+<p></p>
+<p>Your program looks as follows:</p>
+<pre><code class="language-kotlin">open class Human(val name: String = "Unknown", val age: Int, val height: Int) {
+    constructor(age: Int, name: String) : this(18, 185, name)
+}
+
+class DerivedHuman(val weight: Int, age: Int, height: Int, name: String = "Unknown") : Human(age, height, name)
+
+fun main() {
+    val someone = DerivedHuman(65, 21, 195)
+}</code></pre>
+<p>Choose the correct code snippet to define the class <code class="language-kotlin">Human</code>.</p>
+</div>

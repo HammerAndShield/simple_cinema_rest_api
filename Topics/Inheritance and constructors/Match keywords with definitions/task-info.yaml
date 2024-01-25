@@ -1,0 +1,29 @@
+type: matching
+captions:
+  - this
+  - super
+  - init
+  - constructor
+options:
+  - Is used for calling a base class constructor
+  - Is used for defining a class's primary and secondary constructors
+  - Block that is executed right after the primary constructor
+  - Is used for referring to the current class constructor
+files:
+  - name: src/Main.kt
+    visible: true
+    text: |
+      // You can experiment here, it won’t be checked
+      
+      fun main(args: Array<String>) {
+        // put your code here
+      }
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/15619#comment
+status: Solved
+record: -1
+ordering:
+  - 0
+  - 1
+  - 2
+  - 3
